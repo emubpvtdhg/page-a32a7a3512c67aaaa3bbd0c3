@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "15acddd204e3865ea3eb5a35",
+  "owner": "emubpvtdhg",
+  "repo": "page-a32a7a3512c67aaaa3bbd0c3",
+  "title": "GCP",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a32a7a3512c67aaaa3bbd0c3",
+      "a": "GCP",
+      "b": "",
+      "entity": "GCP",
+      "brand": "GCP",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f20963fe18dfe87d21b6e366cee5dacb46e19e6bf885666fc882fda9eed3caeb",
+      "content": {
+        "keyword1": "GCP",
+        "keyword2": "",
+        "primary_entity": "GCP",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GCP 专栏深度分享高质量网络连接方案，从基础到旗舰版，助您畅享无忧上网生活。",
+          "AI_DESCRIPTION": "GCP 专栏深度分享高质量网络连接方案，从基础到旗舰版，助您畅享无忧上网生活。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        500;700&amp;family=Playfair+Display:wght@700&amp;display=swap');\n        \n        :root {--purple: #7f00ff;--lightgray: #f0f0f0;--darkgray: #333333}\n        \n        * {margin: 0;padding: 0;box-sizing: border-box}\n        \n        body {font-family: 'Noto Sans SC', system-ui, sans-serif;line-height: 1.7;color: var(--darkgray);background: var(--lightgray);overflow-x: hidden}\n        \n        h1, h2, h3 {font-family: 'Playfair Display', serif;font-weight: 700}\n        \n        .hero {height: 100vh;display: flex;align-items: center;justify-content: center;text-align: center;position: relative}\n        \n        .hero-content {max-width: 900px;padding: 0 20px;z-index: 2}\n        \n        .brand-name {font-size: clamp(3.5rem, 8vw, 7.5rem);font-weight: 700;color: white;text-shadow: 0 0 40px rgba(127, 0, 255, 0.6);margin-bottom: 20px;letter-spacing: -4px}\n        \n        .hero-subtitle {font-size: 1.5rem;color: #f0f0f0;margin-bottom: 40px;font-weight: 400}\n        \n        .hero-badge {display: inline-block;background: rgba(255,255,255,0.15);padding: 12px 32px;border-radius: 50px;font-size: 1.1rem;color: white;backdrop-filter: blur(10px)}\n        \n        nav {position: fixed;bottom: 0;left: 0;right: 0;background: rgba(255,255,255,0.95);backdrop-filter: blur(12px);border-top: 1px solid rgba(127,0,255,0.15);padding: 12px 20px;z-index: 100;display: flex;justify-content: center;gap: 32px;font-size: 0.95rem}\n        \n        nav a {color: var(--darkgray);text-decoration: none;font-weight: 500;transition: color 0.3s}\n        \n        nav a:hover {color: var(--purple)}\n        \n        .section {padding: 100px 20px;max-width: 1200px;margin: 0 auto}\n        \n        .section-header {text-align: center;margin-bottom: 60px}\n        \n        .section-header h2 {font-size: 2.8rem;color: #1a1a1a;margin-bottom: 16px}\n        \n        .section-header p {font-size: 1.15rem;max-width: 620px;margin: 0 auto;color: #666}\n        \n        .cards-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));gap: 32px}\n        \n        .plan-card {background: white;border-radius: 16px;overflow: hidden;box-shadow: 0 10px 30px rgba(0,0,0,0.08);transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);position: relative}\n        \n        .plan-card:hover {transform: translateY(-12px)}\n        \n        .card-accent {height: 6px;background: linear-gradient(to right, var(--purple), #9d4edd)}\n        \n        .plan-card.featured {border: 3px solid var(--purple)}\n        \n        .plan-header {padding: 32px 32px 20px;text-align: center}\n        \n        .plan-name {font-size: 1.65rem;margin-bottom: 8px;color: #1a1a1a}\n        \n        .plan-price {font-size: 2.4rem;font-weight: 700;color: var(--purple);margin-bottom: 4px}\n        \n        .plan-period {font-size: 1rem;color: #888}\n        \n        .plan-features {padding: 0 32px 32px}\n        \n        .plan-features ul {list-style: none}\n        \n        .plan-features li {padding: 14px 0;border-bottom: 1px solid #f0f0f0;display: flex;align-items: center;gap: 12px}\n        \n        .plan-features li:before {content: \"✓\";color: var(--purple);font-size: 1.4rem}\n        \n        .faq-section {background: white}\n        \n        details {margin-bottom: 20px;border: 1px solid #eee;border-radius: 12px;overflow: hidden}\n        \n        summary {padding: 24px 32px;font-size: 1.15rem;font-weight: 500;cursor: pointer;background: #fafafa;list-style: none;position: relative}\n        \n        summary::-webkit-details-marker {display: none}\n        \n        summary:after {content: '▼';position: absolute;right: 32px;transition: transform 0.3s}\n        \n        details[open] summary:after {transform: rotate(180deg)}\n        \n        details div {padding: 0 32px 32px;color: #555;font-size: 1.05rem}\n        \n        .cta {text-align: center;padding: 80px 20px;background: linear-gradient(135deg, #f0f0f0, #e0e0e0)}\n        \n        .cta h3 {font-size: 2.2rem;margin-bottom: 16px}\n        \n        footer {text-align: center;padding: 40px 20px;color: #888;font-size: 0.9rem}\n        \n        @media (max-width: 640px) {\n            .hero-content .brand-name {font-size: 4.5rem}\n            \n            .section {padding: 60px 16px}\n            \n            nav {gap: 20px;padding: 16px 12px}\n        }\n    </style>\n    <header class=\"hero\">\n        <div class=\"hero-content\">\n            <h1 class=\"brand-name\">GCP</h1>\n            <p class=\"hero-subtitle\">重新定义数字自由的观察视角</p>\n            <div class=\"hero-badge\">每月流量·无限可能</div>\n        </div>\n    </header>\n\n    \n    <nav>\n        <a href=\"#about\">关于我们</a>\n        <a href=\"#plans\">套餐方案</a>\n        <a href=\"#faq\">常见问题</a>\n        <a href=\"#conclusion\">专栏总结</a>\n    </nav>\n\n    \n    <section id=\"about\" class=\"section\">\n        <div class=\"section-header\">\n            <h2>观察一个网络世界的日常</h2>\n            <p>作为长期关注网络连接服务的读者，我常常在思考：真正的自由是什么？它不只是解锁某个平台，而是让您在任何地方都能保持连接的流畅与安心。</p>\n        </div>\n        \n        <div>\n            <p>网络世界从来不是单调的数字管道。它承载着我们与世界的连接方式。从早期的拨号上网，到如今的5G高速，每一次技术跃进都在重新定义用户体验。我见过太多朋友在不同设备间切换时遇到卡顿、断线或访问受限的情况。那种对连接的期待和失望，常常成为日常小烦恼。</p>\n            \n            <p>而GCP的出现，像是一份精心记录的观察笔记。它不是简单的代理工具，而是提供了一系列经过精心优化的网络方案，让您可以更从容地探索数字空间。无论您是日常工作者、内容创作者，还是追求稳定连接的普通用户，这份观察都值得您阅读。</p>\n            \n            <p>在接下来的内容里，我将逐一拆解这些方案的特点，并探讨它们如何帮助我们维持真正的上网自由。</p>\n        </div>\n    </section>\n\n    \n    <section id=\"plans\" class=\"section\">\n        <div class=\"section-header\">\n            <h2>选择适合您的连接方案</h2>\n            <p>我将根据不同使用场景，分享GCP提供的多版本网络方案。每个方案都经过实际观察与优化。</p>\n        </div>\n        \n        <div class=\"cards-grid\">\n            \n            <div class=\"plan-card\">\n                <div class=\"card-accent\"></div>\n                <div class=\"plan-header\">\n                    <div class=\"plan-name\">基础版</div>\n                    <div class=\"plan-price\">¥15</div>\n                    <div class=\"plan-period\">/月</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月100GB高速流量</li>\n                        <li>支持3台设备同时在线</li>\n                        <li>解锁基础流媒体平台</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n            </div>\n            \n            \n            <div class=\"plan-card featured\">\n                <div class=\"card-accent\"></div>\n                <div class=\"plan-header\">\n                    <div class=\"plan-name\">旗舰版</div>\n                    <div class=\"plan-price\">¥35</div>\n                    <div class=\"plan-period\">/月</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月300GB高速流量</li>\n                        <li>支持5台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC专线游戏加速</li>\n                        <li>7×24优先工单支持</li>\n                    </ul>\n                </div>\n            </div>\n            \n            \n            <div class=\"plan-card\">\n                <div class=\"card-accent\"></div>\n                <div class=\"plan-header\">\n                    <div class=\"plan-name\">团队版</div>\n                    <div class=\"plan-price\">¥85</div>\n                    <div class=\"plan-period\">/月</div>\n                </div>\n                <div class=\"plan-features\">\n                    <ul>\n                        <li>每月1000GB高速流量</li>\n                        <li>支持20台设备同时在线</li>\n                        <li>VIP专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    \n    <section id=\"faq\" class=\"section faq-section\">\n        <div class=\"section-header\">\n            <h2>专栏读者常问的问题</h2>\n        </div>\n        \n        <div>\n            <details>\n                <summary>GCP支持多少设备同时使用？</summary>\n                <div>\n                    <p>基础版支持最多3台设备同时在线，旗舰版可扩展至5台，而团队版则可支持多达20台设备。这意味着您可以在家中、办公室和外出时保持稳定的连接。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>不同版本的流量上限如何？</summary>\n                <div>\n                    <p>基础版每月提供100GB流量，旗舰版提升至300GB，而团队版则高达1000GB。这些流量限额已充分覆盖日常使用需求，包括流媒体观看和在线办公。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>GCP如何提供游戏加速？</summary>\n                <div>\n                    <p>旗舰版以上版本均采用IPLC专线技术，专门针对游戏场景进行优化。这不仅降低了延迟，还提升了数据传输的稳定性，让您在游戏时获得更顺滑的体验。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>如何获得优先技术支持？</summary>\n                <div>\n                    <p>旗舰版及以上用户可享受7×24优先工单服务。无论遇到任何连接问题，您都可以获得更快的响应时间。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>这些方案适合不同用户吗？</summary>\n                <div>\n                    <p>是的。根据您的设备数量、流量需求和使用场景，您可以选择最匹配的版本。基础版适合个人轻度使用，旗舰版适合重度用户，团队版则特别适合中小企业或多用户场景。</p>\n                </div>\n            </details>\n        </div>\n    </section>\n\n    \n    <section class=\"section\">\n        <div>\n            <h2>专栏观察的最后总结</h2>\n            <p>\n                网络连接从来不是简单的工具，而是一份记录我们日常互动的观察日记。GCP提供的方案，正是我希望为读者呈现的那些经过优化、值得信赖的选择。\n            </p>\n            <p>\n                希望这份专栏能为您提供清晰的观察视角，让您在选择网络方案时更加从容。\n            </p>\n        </div>\n    </section>\n\n    <footer>\n        <p>© 2024 GCP 专栏观察 | 所有内容基于实际使用体验整理</p>\n    </footer></main>",
+          "hash": "df809083699ff737f62edce453768816e28bad4d2e9bab91b4eac2d4e22726bf",
+          "seo": {
+            "title": "GCP - 数字自由的专属观察",
+            "keywords": "GCP VPN, 高质量网络方案, 机场服务, 高速流量, 专栏观察",
+            "description": "GCP 专栏深度分享高质量网络连接方案，从基础到旗舰版，助您畅享无忧上网生活。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "1473",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nqabuhv.cn",
+    "host": "p-3c085be0e0.nqabuhv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bf5905979cb66bd437e6d8267468deace9c400390457acb20c932fd6fe8ec320",
+    "sitemap.xml": "cab6c9f88ae87adaafa3e05ee06a798d71efd9da61c841f9cddcdd6bf040ac4d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9546cdb6f02196c40586222cb11e0eb202cd3bc2f39f3199b3723f25761299b4",
+    "robots.txt": "57bcc8fcbe0fb87bd796087034b1a952b4ba8980bbac41de92e08419df4301af",
+    "ab0032d9cec4166d0d0d00722aa9776b.txt": "11614af2dd75d58413dfade1f10ab295318bd2299714534edbf1cd0f44d3bcb7"
+  },
+  "revision": "21eee416f2a9041c0ebdc7b1f63c7ea636b302970870f10be7331e08b3ed4b6b"
+}
